@@ -24,7 +24,7 @@ const IndexPage = () => {
         <Paper
           elevation={3}
           sx={{ height: '100%', m: 'auto' }}>
-          <Typography variant="h2" component="h2">Welcome!</Typography>
+          <Typography variant="h2" component="h2" sx={{ pt: 4 }}>Welcome!</Typography>
           <Box sx={{ mt: 20 }}>
             <input className='playerInput' ref={inpRef} type="text" placeholder="player image url" />
             <Button variant="contained" onClick={updatePhoto} sx={{ width: '60%', mx: 'auto' }}>Start The Game!</Button>

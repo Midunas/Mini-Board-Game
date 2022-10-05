@@ -6,10 +6,8 @@ const GamePage = () => {
 
   return (
     <Box sx={{ m: 'auto' }}>
-      <div className="d-flex">
-        <GameBoard />
-        <RollDice />
-      </div>
+      <GameBoard />
+      <RollDice />
     </Box>
   );
 };

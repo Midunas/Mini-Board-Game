@@ -137,10 +137,10 @@
 
 .playerInput {
   width: 50%;
-  height: 30px;
+  height: 35px;
   margin: auto;
   border: 2px solid black;
-  background-color: rgb(207, 203, 203);
+  background-color: rgb(228, 228, 228);
   opacity: 70%;
   border-radius: 12px;
   margin-bottom: 50px;
@@ -149,7 +149,7 @@
 .playerSelect {
   height: 20px;
   border: 1px solid black;
-  background-color: rgb(207, 203, 203);
+  background-color: rgb(228, 228, 228);
   opacity: 70%;
   border-radius: 12px;
 }
