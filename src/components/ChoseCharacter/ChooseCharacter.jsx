@@ -1,8 +1,8 @@
 import React from 'react'
 import { Paper, Box, Typography, Link } from '@mui/material';
 import CharacterDisplay from './CharacterDisplay';
-const ChooseCharacter = () => {
 
+const ChooseCharacter = () => {
   return (
 
     <Paper sx={{ width: '800px', height: '400px', mt: '50px', ml: '-130px', textAlign: 'center' }}>

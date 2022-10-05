@@ -5,7 +5,6 @@ import GamePage from './pages/GamePage';
 import IndexPage from './pages/IndexPage';
 import MainContext from './context/MainContext';
 
-
 function App() {
 
   const gameMap = [
@@ -31,22 +30,15 @@ function App() {
   }
 
   return (
-
     <MainContext.Provider value={contextValue}>
-
       <div className="App d-flex">
-
         <BrowserRouter>
-
           <Routes>
             <Route path="/MiniBoardGame" element={<IndexPage />} />
             <Route path="/MiniBoardGame/game" element={<GamePage />} />
           </Routes>
-
         </BrowserRouter>
-
       </div>
-
     </MainContext.Provider>
   );
 }

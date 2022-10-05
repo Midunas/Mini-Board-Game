@@ -14,7 +14,7 @@ const IndexPage = () => {
     const photoValue = inpRef.current.value
     if (photoValue.length > 0) {
       setPlayerImage(photoValue)
-      nav("/game")
+      nav("/MiniBoardGame/game")
     }
   }
 
