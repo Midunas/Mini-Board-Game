@@ -34,8 +34,8 @@ function App() {
       <div className="App d-flex">
         <BrowserRouter>
           <Routes>
-            <Route path="/MiniBoardGame" element={<IndexPage />} />
-            <Route path="/MiniBoardGame/game" element={<GamePage />} />
+            <Route path="/Mini-Board-Game" element={<IndexPage />} />
+            <Route path="/Mini-Board-Game/game" element={<GamePage />} />
           </Routes>
         </BrowserRouter>
       </div>
