@@ -100,17 +100,6 @@
   width: 50px;
 }
 
-.dice-face-1 {
-  height: 50px;
-  width: 50px;
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dice-1-b.svg/557px-Dice-1-b.svg.png?20121130115708');
-  background-size: cover;
-}
-
-.color-picker {
-  height: 40px
-}
-
 .pl20 {
   padding-left: 20px;
 }
