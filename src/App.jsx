@@ -39,8 +39,8 @@ function App() {
         <BrowserRouter>
 
           <Routes>
-            <Route path="/" element={<IndexPage />} />
-            <Route path="/game" element={<GamePage />} />
+            <Route path="/MiniBoardGame" element={<IndexPage />} />
+            <Route path="/MiniBoardGame/game" element={<GamePage />} />
           </Routes>
 
         </BrowserRouter>
