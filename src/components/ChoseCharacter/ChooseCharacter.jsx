@@ -5,7 +5,7 @@ import CharacterDisplay from './CharacterDisplay';
 const ChooseCharacter = () => {
   return (
 
-    <Paper sx={{ width: '800px', height: '400px', mt: '50px', ml: '-130px', textAlign: 'center' }}>
+    <Paper sx={{ width: '800px', height: '400px', mt: '50px', ml: '-140px', textAlign: 'center' }}>
       <Typography variant="h4" >Choose Your Character!</Typography>
       <CharacterDisplay />
       <Box sx={{ mt: 5 }}>

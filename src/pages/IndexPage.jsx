@@ -19,7 +19,7 @@ const IndexPage = () => {
   }
 
   return (
-    <Box sx={{ display: 'flex', flexDirection: 'column', m: 'auto' }}>
+    <Box sx={{ display: 'flex', flexDirection: 'column', m: 'auto', mt: -20 }}>
       <Box sx={{ width: 500, height: 500, textAlign: 'center' }}>
         <Paper
           elevation={3}
