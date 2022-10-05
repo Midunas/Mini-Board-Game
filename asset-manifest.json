@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mini-Board-Game/static/css/main.8783a7ed.css",
+    "main.js": "/Mini-Board-Game/static/js/main.002daab1.js",
+    "index.html": "/Mini-Board-Game/index.html",
+    "main.8783a7ed.css.map": "/Mini-Board-Game/static/css/main.8783a7ed.css.map",
+    "main.002daab1.js.map": "/Mini-Board-Game/static/js/main.002daab1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8783a7ed.css",
+    "static/js/main.002daab1.js"
+  ]
+}
